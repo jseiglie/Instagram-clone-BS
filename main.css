@@ -1,0 +1,68 @@
+.myNav, .gallery {
+    background: bisque !important;
+}
+
+.icons {
+    
+    margin-top: 0.1rem;
+    margin-left:0.8rem;
+}
+.textContainer {
+    margin-top: 0.8rem;
+}
+
+.btnIco {
+    border: 0.5px solid black;
+    margin-top: 0.5em;
+    margin-left: 0.7em;
+    padding: 0.2em;
+}
+.btnIco:hover {
+    background-color: bisque;
+}
+
+.mHeader {
+    background: bisque;
+}
+.tab-pane{
+    background-color: rgb(235, 229, 229);
+}
+.card{
+    margin: auto;
+}
+
+.selector{
+    margin-top: 2em;
+}
+    .card-header{
+        display: flex;
+        width: 100%;
+        background-color: palegreen;
+    }
+        .order_number{
+            color: gray;
+        }
+        .textMove {
+            width: 95%;
+        }
+    .likes{
+        font-weight: bold;
+    }
+    .comment_text{
+        border: none;
+        margin-left: 25px;
+    }
+
+    .gallery {
+        width: 100%;
+    }
+
+    .galleryRow {
+        width: 97%;
+        margin-top: 1em !important;
+        margin-left: 1em !important;
+    }
+    .galleryItem:hover {
+        background: lightgrey;
+        opacity: 70%;
+    }
